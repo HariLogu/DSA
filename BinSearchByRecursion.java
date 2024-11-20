@@ -1,5 +1,3 @@
-package Recursion.Arrays;
-
 public class BinSearchByRecursion {
 //    we can use recursion in replace for iteration
 //    in recursion we should know which variables should we pass as arguments and also
